@@ -2,7 +2,7 @@
 title: Emily Twines
 email: ""
 description: "Visual and Interactive Media Specialist"
-url: "https://emilytwines.github.io/gallery"
+url: "https://emilytwines.github.io/"
 baseurl: "/gallery"
 facebook_username: ""
 twitter_username: ""
@@ -18,7 +18,7 @@ owner:
   name:   Emily Twines
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Visual and Interactive Media Specialist
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
