@@ -1,8 +1,8 @@
 body {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 20px;
-  color: #eee;
-  background-color: #000;
+  color: #4f7b8c;
+  background-color: #a3b0b5;
 }
 p {
   line-height: 1.5;
@@ -17,17 +17,17 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 800;
+  font-family: 'Lato', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 400;
 }
 a {
-  color: #760824;
+  color: #4f7b8c;
   transition: color .4s;
   text-decorarion: none;
 }
 a:hover,
 a:focus {
-  color: #fff;
+  color: #000;
      transition: color .3s;
     outline: none;
     text-shadow:none;
@@ -400,7 +400,7 @@ img::-moz-selection {
   background: transparent;
 }
 body {
-  webkit-tap-highlight-color: #0085a1;
+  webkit-tap-highlight-color: #4f7b8c;
 }
 .fa-stack-2x {
  color: black;
