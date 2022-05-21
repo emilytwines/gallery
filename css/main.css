@@ -1,7 +1,7 @@
 body {
   font-family: 'Lato', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 20px;
-  color: #4f7b8c;
+  color: #3D0069;
   background-color: #beccd1;
 }
 p {
@@ -21,7 +21,7 @@ h6 {
   font-weight: 400;
 }
 a {
-  color: #4f7b8c;
+  color: #3D0069;
   transition: color .4s;
   text-decorarion: none;
 }
