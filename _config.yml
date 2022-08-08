@@ -16,8 +16,8 @@ share: true
 # Owner/author information
 owner:
   name:   Emily Twines
-  avatar: avatar.png
-  favicon: favicon.ico
+  avatar: logo.png #avatar.png
+  favicon: logo.png #favicon.ico
   info: Visual and Interactive Media Specialist
 
 # Settings for comments helper
